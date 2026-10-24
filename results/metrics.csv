@@ -1,0 +1,4 @@
+controller,overshoot_percent,rise_time_s,settling_time_s,steady_state_error_m,disturbance_dip_m
+P,0.0,nan,nan,0.0728,0.1137
+PI,0.2796,181.0,298.0,-0.0001,0.0353
+PID,2.2765,186.5,506.0,-0.0005,0.034
