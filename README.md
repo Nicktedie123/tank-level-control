@@ -95,6 +95,13 @@ tank-level-control/
 
 Simplified model: Euler integration with a fixed step, no pump dynamics, no sensor noise. Intended for learning and demonstration.
 
+## Author
+
+Nick – Mechanical Engineering student (Maschinenbau) at Hochschule Darmstadt
+Interests: Automatisierungstechnik, Energiesysteme, Konstruktion
+GitHub: [@Nicktedie123](https://github.com/Nicktedie123)
+
+
 ## License
 
 MIT, see [LICENSE](LICENSE).
