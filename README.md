@@ -52,7 +52,7 @@ Implementation details: output limit 0…1, anti-windup (integrator is frozen wh
 ## Getting started
 
 ```bash
-git clone https://github.com/<Nicktedie123>/tank-level-control.git
+git clone https://github.com/Nicktedie123/tank-level-control.git
 cd tank-level-control
 
 python -m venv .venv
